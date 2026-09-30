@@ -1,0 +1,38 @@
+{
+  "de": {
+    "config_missing_title": "Dexcom: Config fehlt",
+    "config_missing_msg": "Datei nicht gefunden: {path}",
+    "json_error_title": "Dexcom: JSON-Fehler",
+    "json_error_msg": "Ungültiges JSON-Format in {file}: {error}",
+    "file_error_title": "Dexcom: Dateifehler",
+    "file_error_msg": "Fehler beim Lesen der Datei {file}: {error}",
+    "missing_params_title": "Dexcom: Config-Fehler",
+    "missing_params_msg": "Fehlende Parameter: {keys}",
+    "connection_error_title": "-- ⚠️",
+    "connection_error_msg": "Verbindungsfehler: {error}",
+    "no_reading_title": "-- ⚠️",
+    "no_reading_msg": "Kein Glukosewert verfügbar (Sensoraufwärmung oder Signalverlust).",
+    "format_error_title": "Dexcom: Format-Fehler",
+    "format_error_msg": "Fehler bei der Datenaufbereitung: {error}",
+    "unknown_trend": "Unbekannt",
+    "tooltip": "Glukose: {value} {unit} ({trend})\nZeitpunkt: {time} (vor {minutes} Min.)"
+  },
+  "en": {
+    "config_missing_title": "Dexcom: Missing config",
+    "config_missing_msg": "File not found: {path}",
+    "json_error_title": "Dexcom: JSON error",
+    "json_error_msg": "Invalid JSON format in {file}: {error}",
+    "file_error_title": "Dexcom: File error",
+    "file_error_msg": "Error reading file {file}: {error}",
+    "missing_params_title": "Dexcom: Config error",
+    "missing_params_msg": "Missing parameters: {keys}",
+    "connection_error_title": "-- ⚠️",
+    "connection_error_msg": "Connection error: {error}",
+    "no_reading_title": "-- ⚠️",
+    "no_reading_msg": "No glucose reading available (sensor warm-up or signal loss).",
+    "format_error_title": "Dexcom: Format error",
+    "format_error_msg": "Error processing data: {error}",
+    "unknown_trend": "Unknown",
+    "tooltip": "Glucose: {value} {unit} ({trend})\nTime: {time} ({minutes} min ago)"
+  }
+}

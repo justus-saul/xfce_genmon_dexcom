@@ -1,0 +1,10 @@
+{
+  "username": "your-dexcom-username-or-email",
+  "password": "your-dexcom-password",
+  "region": "ous",
+  "unit": "mg/dL",
+  "lang": "en",
+  "low_threshold": 70,
+  "high_threshold": 180
+}
+
